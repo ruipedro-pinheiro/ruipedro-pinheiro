@@ -25,4 +25,12 @@ Outside of class, I explore new languages, contribute to open‑source, and buil
 ---
 [![](https://visitcount.itsvg.in/api?id=pedropmelojs&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedropmelojs/pedropmelojs/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedropmelojs/pedropmelojs/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedropmelojs/pedropmelojs/output/pacman-contribution-graph.svg">
+</picture>
+
+###
