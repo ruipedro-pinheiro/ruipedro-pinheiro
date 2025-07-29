@@ -1,6 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently studying at 42 Lausanne, Switzerland<br>🌱 I’m currently learning C and unix systems.<br>💬 Ask me about<br>⚡ Fun fact
+## 💫 About Me
 
+- 🎉 I fell in love with **front‑end development** crafting dynamic React interfaces.  
+- 🧑‍🎓 Admitted to **42 Lausanne (Class of 2025)**, now diving into **C** & **Unix**—low‑level puzzles, pointer gymnastics and all.  
+- 🚀 Long‑term goal: **Fullstack Developer** or **Software Engineer** with a cybersecurity edge.  
+- 🛠️ Passionate about **sysadmin**, **networking**, and exploring new languages.  
+- ⚡ Fun fact: I created a community‑favorite game mod with nearly **40 000 downloads**.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rui-pedro-pinheiro-de-melo-667762377/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Melow) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pedroyverdon@gmail.com) 
