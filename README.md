@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img
     src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Pedro+Pinheiro;C+Developer+%7C+Unix+%7C+Cybersecurity](https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00A8FF&vCenter=true&width=435&lines=Pedro+Pinheiro+;Student+at+42+Lausanne)"
     alt="Typing SVG" />
