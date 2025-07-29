@@ -1,26 +1,50 @@
-### Hi there, I'm Pedro - aka Melow 👋 
+<h1 align="center">Hi there, I'm Pedro — aka Melow 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=💻+42+student+%7C+Self-taught+dev;🌐+Learning+fullstack+development;🚀+Loving+code,+tech+and+creativity" alt="Typing SVG" />
+</p>
 
-## ABOUT ME:
-- 🔭 Learning today technologies !
-- 👨🏻‍🎓 Self-taugt in many domains !
-- 🤝 Fully open to new adventures and opportunities!
+---
 
-## 2025 GOALS:
-- 🛸 Master MERN stack
-- 🎌 Learn more languages like C#,Rust or Go
-- 🚀 Master Typescript
-- 🔥 Be more active on Github
+## 🙋‍♂️ About Me
 
-## Languages and tools
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px"src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/>
-<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/color-glass/48/000000/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/officel/80/000000/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/stickers/100/000000/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/fluency/48/000000/console.png" />                   <br> <br/>
-<br />
+- 🎓 Newly admitted student at **42 Lausanne**
+- 🔧 Self-taught developer with a passion for building things
+- 🌱 Always learning modern technologies and best practices
+- 🧠 Curious by nature, open to new challenges and collaborations
 
+---
+
+## 🎯 2025 Goals
+
+- 🔭 Master the **MERN stack**
+- 🧩 Learn more languages like **C#**, **Rust**, or **Go**
+- 🚀 Become proficient in **TypeScript**
+- 🔥 Be more active on GitHub (projects, PRs, issues)
+- 🧪 Build real-world apps and contribute to open source
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="30" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app
