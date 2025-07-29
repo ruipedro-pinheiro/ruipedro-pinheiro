@@ -1,6 +1,6 @@
 <!-- Typing header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=C+Developer+%7C+Unix+Systems+%7C+Cybersecurity" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=C+Developer+%7C+Unix+Systems+%7C+Cybersecurity" alt="Typing animation" />
 </p>
 
 <h1 align="center">C Developer · Unix Systems · Cybersecurity</h1>
