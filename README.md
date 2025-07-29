@@ -1,14 +1,13 @@
 <!-- Typing header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Pedro+Pinheiro;C+Developer+%7C+Unix+%7C+Cybersecurity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=C+Developer+%7C+Unix+Systems+%7C+Cybersecurity" alt="Typing animation" />
 </p>
 
-<!-- Clean title -->
 <h1 align="center">C Developer · Unix Systems · Cybersecurity</h1>
 
 ---
 
-<!-- Visual badges -->
+<!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -25,26 +24,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedropmelojs&theme=radical&hide_border=true" width="48%" />
 </p>
 
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropmelojs&layout=compact&theme=radical&hide_border=true" width="40%" />
-</p>
-
 ---
 
-<!-- Contribution snake (requires GitHub Actions setup) -->
+<!-- Contact -->
 <p align="center">
-  <img src="https://github.com/pedropmelojs/pedropmelojs/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-<!-- Contact section -->
-<p align="center">
-  <a href="https://github.com/pedropmelojs" target="_blank">
+  <a href="https://github.com/pedropmelojs">
     <img src="https://img.shields.io/badge/GitHub-pedropmelojs-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://discord.com/users/tugakit" target="_blank">
+  <a href="https://discord.com/users/tugakit">
     <img src="https://img.shields.io/badge/Discord-tugakit-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
