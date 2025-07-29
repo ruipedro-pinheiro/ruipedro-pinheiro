@@ -1,8 +1,8 @@
 ## 💫 About Me
 
-From tinkering with HTML & CSS as a teenager to building my first React app, I’ve always been driven by the thrill of turning ideas into interactive experiences. Front‑end development hooked me with instant feedback and creative freedom.
+From tinkering with HTML & CSS as a teenager to building my first React app, I’ve always been driven by the thrill of turning ideas into interactive experiences. Front‑end development hooked me with instant feedback and creative freedom.
 
-In 2025, I took the leap into systems programming by joining **42 Lausanne**. Here, I’ve swapped JavaScript for **C**, traded frameworks for **Unix/Linux** internals, and fallen in love with pointers, memory management and shell scripting. Every error is a puzzle; every program, a lesson in precision.
+In 2025, I took the leap into systems programming by joining **42 Lausanne**. Here, I’ve swapped JavaScript for **C**, traded frameworks for **Unix/Linux** internals, and fallen in love with **algorithmic puzzles, defensive programming and performance optimization**. Every error is a puzzle; every program, a lesson in precision.
 
 My long‑term vision is to blend both worlds as a **Fullstack Developer** or **Software Engineer** with a strong **cybersecurity** mindset. Whether I’m hardening network services, automating deployments as a sysadmin, or prototyping a new API, I aim to write code that’s secure, efficient and maintainable.
 
