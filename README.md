@@ -1,65 +1,21 @@
-<h1 align="center">Pedro Pinheiro</h1>
-<h3 align="center">C Developer · Unix Systems · Cybersecurity-oriented</h3>
+# 💫 About Me:
+🔭 I’m currently studying at 42 Lausanne, Switzerland<br>🌱 I’m currently learning C and unix systems.<br>💬 Ask me about<br>⚡ Fun fact
 
----
 
-## 💡 About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rui-pedro-pinheiro-de-melo-667762377/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Melow) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pedroyverdon@gmail.com) 
 
-- 🎓 Currently studying at **42 Lausanne**, Switzerland  
-- 🧠 Focused on **C programming**, **Unix/Linux systems**, **low-level development**  
-- 🔐 Strong interest in **cybersecurity**, systems programming & secure architecture  
-- 💬 Curious, pragmatic, driven by real‑world problems  
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rui-pedro-pinheiro-de-melo-667762377/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroyverdon@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-tugakit-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tugakit)
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" alt="Vim" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedropmelojs&theme=dracula&show_icons=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedropmelojs&theme=dracula" width="48%" />
-</p>
-
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pedropmelojs&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pedropmelojs&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedropmelojs&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedropmelojs&theme=dracula&no-bg=true" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=pedropmelojs&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=pedropmelojs&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=pedropmelojs&icon=0&color=6" />
-</p>
-
----
-
-<h1 align="left">Hi ! I'm Pedro Pinheiro !</h1>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedropmelojs/pedropmelojs/main/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedropmelojs/pedropmelojs/main/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedropmelojs/pedropmelojs/main/output/pacman-contribution-graph.svg">
-</picture>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
