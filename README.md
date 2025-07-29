@@ -1,6 +1,6 @@
 <p>
   <img
-    src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00A8FF&vCenter=true&width=435&lines=Pedro+Pinheiro+;Student+at+42+Lausanne"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00A8FF&vCenter=true&width=435&lines=Pedro+Pinheiro+;Student+at+42+Lausanne"
     alt="Typing SVG" />
 </p>
 ## 💫 About Me
