@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00A8FF&center=true&vCenter=true&width=435&lines=Pedro+Pinheiro+;Student+at+42+Lausanne)](https://git.io/typing-svg)
 ## 💫 About Me
 
 From tinkering with HTML & CSS as a teenager to building my first React app, I’ve always been driven by the thrill of turning ideas into interactive experiences. Front‑end development hooked me with instant feedback and creative freedom.
