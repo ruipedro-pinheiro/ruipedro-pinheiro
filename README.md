@@ -6,10 +6,9 @@
 ## 💡 About Me
 
 - 🎓 Currently studying at **42 Lausanne**, Switzerland  
-- 🧠 Focused on **C programming**, **Unix/Linux systems**, and **low-level development**  
-- 🔐 Strong interest in **cybersecurity**, systems programming, and robust architecture  
-- 💬 Always curious, eager to learn, and driven by real-world problems  
-- ⚡ Fun fact: I automate my workflow to stay lazy *on purpose*
+- 🧠 Focused on **C programming**, **Unix/Linux systems**, **low-level development**  
+- 🔐 Strong interest in **cybersecurity**, systems programming & secure architecture  
+- 💬 Curious, pragmatic, driven by real‑world problems  
 
 ---
 
@@ -23,25 +22,22 @@
 
 ## 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" alt="Vim" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedropmelojs&theme=dracula&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pedropmelojs&theme=dracula&hide_border=false" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropmelojs&layout=compact&theme=dracula&hide_border=false" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedropmelojs&theme=dracula&show_icons=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedropmelojs&theme=dracula" width="48%" />
 </p>
 
 ---
@@ -49,7 +45,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedropmelojs&theme=dracula&no-frame=false&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pedropmelojs&theme=dracula&no-bg=true" />
 </p>
 
 ---
@@ -60,10 +56,10 @@
 
 ---
 
-<h1 align="left">Hi ! I'm Pedro !</h1>
+<h1 align="left">Hi ! I'm Pedro Pinheiro !</h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedropmelojs/pedropmelojs/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedropmelojs/pedropmelojs/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedropmelojs/pedropmelojs/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedropmelojs/pedropmelojs/main/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedropmelojs/pedropmelojs/main/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedropmelojs/pedropmelojs/main/output/pacman-contribution-graph.svg">
 </picture>
