@@ -36,12 +36,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedropmelojs&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pedropmelojs&theme=dracula&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pedropmelojs&theme=dracula&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropmelojs&layout=compact&theme=dracula&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropmelojs&layout=compact&theme=dracula&hide_border=false" width="40%" />
 </p>
 
 ---
@@ -58,11 +58,12 @@
   <img src="https://visitcount.itsvg.in/api?id=pedropmelojs&icon=0&color=6" />
 </p>
 
+---
+
+<h1 align="left">Hi ! I'm Pedro !</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedropmelojs/pedropmelojs/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedropmelojs/pedropmelojs/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedropmelojs/pedropmelojs/output/pacman-contribution-graph.svg">
 </picture>
-
-<!-- Built with ❤️ and caffeine -->
