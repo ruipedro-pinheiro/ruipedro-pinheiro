@@ -1,10 +1,12 @@
 ## 💫 About Me
 
-- 🎉 I fell in love with **front‑end development** crafting dynamic React interfaces.  
-- 🧑‍🎓 Admitted to **42 Lausanne (Class of 2025)**, now diving into **C** & **Unix**—low‑level puzzles, pointer gymnastics and all.  
-- 🚀 Long‑term goal: **Fullstack Developer** or **Software Engineer** with a cybersecurity edge.  
-- 🛠️ Passionate about **sysadmin**, **networking**, and exploring new languages.  
-- ⚡ Fun fact: I created a community‑favorite game mod with nearly **40 000 downloads**.
+From tinkering with HTML & CSS as a teenager to building my first React app, I’ve always been driven by the thrill of turning ideas into interactive experiences. Front‑end development hooked me with instant feedback and creative freedom.
+
+In 2025, I took the leap into systems programming by joining **42 Lausanne**. Here, I’ve swapped JavaScript for **C**, traded frameworks for **Unix/Linux** internals, and fallen in love with pointers, memory management and shell scripting. Every error is a puzzle; every program, a lesson in precision.
+
+My long‑term vision is to blend both worlds as a **Fullstack Developer** or **Software Engineer** with a strong **cybersecurity** mindset. Whether I’m hardening network services, automating deployments as a sysadmin, or prototyping a new API, I aim to write code that’s secure, efficient and maintainable.
+
+Outside of class, I explore new languages, contribute to open‑source, and built a game mod that has reached nearly **40 000** downloads. I believe in lifelong learning, sharing knowledge, and crafting elegant solutions to real‑world problems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rui-pedro-pinheiro-de-melo-667762377/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Melow) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pedroyverdon@gmail.com) 
