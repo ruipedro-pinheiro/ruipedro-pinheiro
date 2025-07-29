@@ -1,50 +1,69 @@
-<h1 align="center">Hi there, I'm Pedro — aka Melow 👋</h1>
+<!-- BANNER / HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=💻+42+student+%7C+Self-taught+dev;🌐+Learning+fullstack+development;🚀+Loving+code,+tech+and+creativity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Pedro+aka+Melow;42+Lausanne+Student+%F0%9F%9A%80;Fullstack+dev+in+progress..." alt="Typing SVG" />
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+<h2 align="center">🚀 About Me</h2>
 
-- 🎓 Newly admitted student at **42 Lausanne**
-- 🔧 Self-taught developer with a passion for building things
-- 🌱 Always learning modern technologies and best practices
-- 🧠 Curious by nature, open to new challenges and collaborations
-
----
-
-## 🎯 2025 Goals
-
-- 🔭 Master the **MERN stack**
-- 🧩 Learn more languages like **C#**, **Rust**, or **Go**
-- 🚀 Become proficient in **TypeScript**
-- 🔥 Be more active on GitHub (projects, PRs, issues)
-- 🧪 Build real-world apps and contribute to open source
+- 🎓 Fresh student @ **42 Lausanne**
+- 🧠 Self-taught with a hacker mindset
+- 🌍 Explorer of code, systems, and creative tech
+- 🛠️ Currently sharpening my skills in **C**, **Unix**, and **algorithms**
+- 📚 Interested in **low-level**, **backend**, and **modern fullstack dev**
 
 ---
 
-## 🛠️ Languages and Tools
+<h2 align="center">🎯 2025 Goals</h2>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="30" />
+- 🔧 Master **MERN stack**
+- ⚙️ Learn **Rust**, **Go**, or **C#**
+- 🧪 Get fluent in **TypeScript**
+- 📈 Build a solid open-source profile
+- 🤝 Collaborate on challenging projects
+
+---
+
+<h2 align="center">🧰 Toolbox</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 Stats & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app
+  <img src="https://github-readme-stats.vercel.app/api?username=Melow42&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Melow42&theme=radical&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melow42&layout=compact&theme=radical&hide_border=true" width="40%" />
+</p>
+
+---
+
+<h2 align="center">🌐 Connect</h2>
+
+<p align="center">
+  <a href="https://42lausanne.ch/" target="_blank"><img src="https://img.shields.io/badge/42-Lausanne-black?style=for-the-badge&logo=42&logoColor=white" /></a>
+  <a href="https://github.com/Melow42" target="_blank"><img src="https://img.shields.io/badge/GitHub-Melow42-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://discord.com/users/YOUR_ID" target="_blank"><img src="https://img.shields.io/badge/Discord-Melow%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center"><i>💬 “Code is my second language. Coffee is my first.”</i></p>
