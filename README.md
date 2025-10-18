@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rui-pedro-pinheiro-de-melo-667762377/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/ruipedro-pinheiro/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:pedroyverdon@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/pedropmelojs"><img src="https://img.shields.io/github/followers/pedropmelojs?label=Follow&style=social" alt="GitHub"></a> <br>
   <a href="https://wakatime.com/@6092f2a5-889e-48df-aceb-397e001ced10"><img src="https://wakatime.com/badge/user/6092f2a5-889e-48df-aceb-397e001ced10.svg" alt="Temps total de programmation" /></a>
