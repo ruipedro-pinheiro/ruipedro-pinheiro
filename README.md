@@ -5,13 +5,20 @@
 </p>
 ## 💫 About Me
 
-From tinkering with HTML & CSS as a teenager to building my first React app, I’ve always been driven by the thrill of turning ideas into interactive experiences. Front‑end development hooked me with instant feedback and creative freedom.
+Étudiant en développement logiciel à **42 Lausanne** depuis septembre 2025.
 
-In 2025, I took the leap into systems programming by joining **42 Lausanne**. Here, I’ve swapped JavaScript for **C**, traded frameworks for **Unix/Linux** internals, and fallen in love with **algorithmic puzzles, defensive programming and performance optimization**. Every error is a puzzle; every program, a lesson in precision.
+Actuellement dans le tronc commun : programmation **C**, systèmes **Unix/Linux**, algorithmes et structures de données. Apprentissage par projets, peer-to-peer learning, résolution autonome de problèmes.
 
-My long‑term vision is to blend both worlds as a **Fullstack Developer** or **Software Engineer** with a strong **cybersecurity** mindset. Whether I’m hardening network services, automating deployments as a sysadmin, or prototyping a new API, I aim to write code that’s secure, efficient and maintainable.
+**Projets 42 :**
+- ✅ **libft** - Bibliothèque C personnalisée (gestion mémoire, listes chaînées) - Validé - 100/100
+- 🚧 **born2beroot** - Configuration et sécurisation serveur Debian (LVM, SSH, UFW) - En cours de validation
+- 📝 **get_next_line** - Prochainement
 
-Outside of class, I explore new languages, contribute to open‑source, and built a game mod that has reached nearly **40 000** downloads. I believe in lifelong learning, sharing knowledge, and crafting elegant solutions to real‑world problems.
+**Avant 42 :** Développement web autodidacte (React, JavaScript, HTML/CSS). Créé un mod de jeu avec **40 000 téléchargements**.
+
+**Objectif :** Devenir développeur fullstack ou ingénieur logiciel avec un focus sur la sécurité et la performance.
+
+📍 Lausanne, Suisse | Ouvert aux échanges avec la communauté tech
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rui-pedro-pinheiro-de-melo-667762377/) 
