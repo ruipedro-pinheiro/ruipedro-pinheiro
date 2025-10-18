@@ -5,7 +5,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/rui-pedro-pinheiro-de-melo-667762377/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:pedroyverdon@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/pedropmelojs"><img src="https://img.shields.io/github/followers/pedropmelojs?label=Follow&style=social" alt="GitHub"></a>
+  <a href="https://github.com/pedropmelojs"><img src="https://img.shields.io/github/followers/pedropmelojs?label=Follow&style=social" alt="GitHub"></a> <br>
+  <a href="https://wakatime.com/@6092f2a5-889e-48df-aceb-397e001ced10"><img src="https://wakatime.com/badge/user/6092f2a5-889e-48df-aceb-397e001ced10.svg" alt="Temps total de programmation" /></a>
+
 </p>
 
 ---
@@ -73,6 +75,19 @@
 
 ---
 
+## 📬 Contact
+
+<div align="center">
+  
+**Ouvert aux échanges, collaborations et opportunités !**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rui-pedro-pinheiro-de-melo-667762377/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroyverdon@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedropmelojs)
+
+📍 Lausanne, Suisse | 🎓 42 Lausanne
+
+</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8FF,100:0080FF&height=120&section=footer" />
 </div>
