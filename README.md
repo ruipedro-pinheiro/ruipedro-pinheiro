@@ -65,30 +65,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedropmelojs&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pedropmelojs&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropmelojs&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedropmelojs&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</div>
-
----
-
 ## 💡 Avant 42
 
 🎮 **Développement web autodidacte** - React, JavaScript, HTML/CSS
