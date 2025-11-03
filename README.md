@@ -32,7 +32,7 @@
 - **[libft](https://github.com/pedropmelojs/libft-42)** - Bibliothèque C personnalisée
   - Recréation de fonctions standard (malloc, manipulation chaînes, listes chaînées)
   - Gestion mémoire manuelle, pointeurs, structures de données
-  - **[born2beroot](https://github.com/pedropmelojs/born2beroot-documentation)** - Configuration serveur Debian sécurisé
+- **[born2beroot](https://github.com/pedropmelojs/born2beroot-documentation)** - Configuration serveur Debian sécurisé
   - Partitionnement LVM chiffré, configuration SSH, pare-feu UFW
   - Politiques de sécurité, scripting bash, administration système
 
